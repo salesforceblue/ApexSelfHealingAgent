@@ -9,6 +9,7 @@ Read all about this project at https://salesforceblue.com/apex-self-healing-agen
 
 - Python 3.8+ installed
 - Install dependencies: `pip install -r requirements.txt`
+- Renable .env.example.txt to .env 
 - Configure `.env` file and update with your Salesforce, GitHub, and JIRA tokens
 
 ## Quick Start
