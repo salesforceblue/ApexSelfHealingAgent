@@ -30,4 +30,5 @@ Read all about this project at https://salesforceblue.com/apex-self-healing-agen
      }'
    ```
 
-Server runs on `http://localhost:8000` - API docs available at `/docs`
+Server runs on `http://localhost:8000` 
+
