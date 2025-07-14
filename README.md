@@ -24,7 +24,7 @@ Read all about this project at https://salesforceblue.com/apex-self-healing-agen
    curl -X POST http://localhost:8000/solve \
      -H "Content-Type: application/json" \
      -d '{
-       "exception_id": "test-123",
+       "exception_id": "<exception recordid>",
        "exception_message": "Attempt to de-reference a null object",
        "stack_trace": "Class.AccountTriggerHandler.handleAfterUpdate: line 14, column 1\nTrigger.AccountTrigger: line 3, column 1"
      }'
